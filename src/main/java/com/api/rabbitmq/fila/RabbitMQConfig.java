@@ -1,4 +1,5 @@
 package com.api.rabbitmq.fila;
+
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.DirectExchange;
