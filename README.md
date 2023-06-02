@@ -4,6 +4,7 @@ API com integração com o RabbitMQ para publicação de mensagem.
 
 ## ⚙️ Funcionalidades
 - [x] Integração com o RabbitMQ e envio de mensagem
+- [x] Tratamento de erro.
 
 
 ## Executar o projeto
